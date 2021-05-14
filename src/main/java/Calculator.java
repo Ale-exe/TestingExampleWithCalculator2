@@ -12,6 +12,6 @@ public class Calculator
     {
         Calculator calcy = new Calculator();
         System.out.println(calcy.multiply(0,7));
-
+        System.out.println("This commit worked and is not on github!");
     }
 }
